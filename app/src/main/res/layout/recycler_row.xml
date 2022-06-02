@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+ xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/recyclerEmail"
+        android:layout_width="match_parent"
+        android:layout_height="43dp"
+        android:layout_margin="6dp"
+        android:textColor="@color/cardview_dark_background"
+        android:textSize="20sp">
+
+    </TextView>
+
+    <ImageView
+        android:id="@+id/recycler"
+        android:layout_width="350dp"
+        android:layout_height="250dp"
+        android:layout_margin="6dp"
+        android:layout_gravity="center"
+        >
+
+    </ImageView>
+
+    <TextView
+        android:id="@+id/recyclerkweet"
+        android:layout_width="match_parent"
+        android:layout_height="43dp"
+        android:layout_margin="8dp"
+        android:text="Kweet"
+        android:textColor="@color/cardview_dark_background"
+        android:textSize="18sp">
+
+    </TextView>
+
+</LinearLayout>

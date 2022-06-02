@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "967352107436",
+    "project_id": "twikker-1c92f",
+    "storage_bucket": "twikker-1c92f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967352107436:android:1a18b44c061414d29dfa09",
+        "android_client_info": {
+          "package_name": "com.example.kwitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967352107436-o4bqesucg0pv3qbd1fiisfl6v3hoqkfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb5PQJEW5caLAdliG6lWMHfdnRIQox1aY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967352107436-o4bqesucg0pv3qbd1fiisfl6v3hoqkfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
